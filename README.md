@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-The purpose of this analysis is to apply supervised machine learning alogthrims to determine credit card risk. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Using the credit card credit dataset from LendingClub, this project oversamples the data using the RandomOverSampler and SMOTE algorithms, and undersamples the data using the ClusterCentroids algorithm. ALso, using a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Lastly, compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
+The purpose of this analysis is to apply supervised machine learning alogthrims to determine credit card risk. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Using the credit card credit dataset from LendingClub, this project oversamples the data using the RandomOverSampler and SMOTE algorithms, and undersamples the data using the ClusterCentroids algorithm. Also, using a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Lastly, compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
 
 ## 6 different methods were used:
 
